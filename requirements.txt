@@ -1,0 +1,16 @@
+soundfile
+scipy
+librosa
+numba==0.56.4
+numpy==1.23.5
+llvmlite==0.39.1
+faiss-cpu
+tqdm
+praat-parselmouth
+pyworld
+webrtcvad
+pyyaml
+torchcrepe
+gradio==3.16.2
+matplotlib
+fairseq
